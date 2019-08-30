@@ -7,7 +7,11 @@ The register and login procedures are both one-time processes.
 
 ![image](https://user-images.githubusercontent.com/50372240/63875890-0bd7e180-c9e2-11e9-9403-4b7797c33d9e.png)
 
+creating a note :
+
 ![image](https://user-images.githubusercontent.com/50372240/63876294-d41d6980-c9e2-11e9-895a-99b1ca68fc47.png)
+
+list of created notes :
 
 ![image](https://user-images.githubusercontent.com/50372240/64027238-eb349680-cb5d-11e9-8470-4275a916f477.png)
 
